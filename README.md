@@ -22,7 +22,6 @@ performance check was done by using precision, recall, specificity of confusion 
 
 
 
-<br>
-<h5> If you want to check every detail of this project : 
+##### If you want to check every detail of this project : 
 + https://drive.google.com/file/d/13R738bURnLfXqPc-cRKA00UEVRLvHzLQ/view?usp=sharing
 + https://drive.google.com/file/d/1NwF4CYPkNhdhkyTxSHn39ke8ZxcbDG11/view?usp=sharing
